@@ -1,0 +1,27 @@
+Country: England
+County: Somerset
+District: Wakefield
+DistrictWard: Crewkerne (40UDKD)
+EducationAndLearningWalesRegion: Education and Learning Wales Regional
+EducationAndLearningWalesRegionalOffice: Education and Learning Wales Regional Office
+EducationAndLibraryBoard: Western
+EducationAndLibraryBoardArea: Southern
+EuropeanRegion: West Midlands
+GovernmentOfficeRegion: 95R
+LocalAuthority: Croydon London Borough Council (00AH)
+LocalAuthorityDistrict: Croydon
+LocalEducationAuthority: South Eastern
+LocalEducationAuthorityArea: South Eastern
+LocalLearningAndSkillsCouncil: Berkshire (SE270)
+LocalLearningAndSkillsCouncilArea: London South (GL161)
+LondonBorough: The London Borough of Croydon
+LondonBoroughWard: List of electoral wards
+MetropolitanCounty: Derbyshire
+MetropolitanDistrict: 00BZ (LocalAuthorityDistrict)
+MetropolitanDistrictWard: 00BTGQ (electoral-ward)
+NonMetropolitanCounty: Lancashire
+UnitaryAuthority: subclass of LocalAuthorityDistrict
+UnitaryAuthorityElectoralDivision: (electoral-ward)
+UnitaryAuthorityWard: (electoral-ward)
+Ward: (electoral-ward)
+WestminsterConstituency: Croydon North
